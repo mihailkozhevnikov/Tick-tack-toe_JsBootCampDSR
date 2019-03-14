@@ -1,5 +1,5 @@
 
-##This project is a tic-tac-toe implementation using React.
+# This project is a tic-tac-toe implementation using React.
 This project is a task on the courses of the company DSR - JS BootCamp 2019.
 ## After cloning the repository, you need to run this command in the project directory:
 
