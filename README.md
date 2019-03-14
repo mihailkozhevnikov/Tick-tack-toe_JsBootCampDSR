@@ -1,5 +1,5 @@
 
-#This project is a tic-tac-toe implementation using React.
+##This project is a tic-tac-toe implementation using React.
 This project is a task on the courses of the company DSR - JS BootCamp 2019.
 ## After cloning the repository, you need to run this command in the project directory:
 
@@ -23,4 +23,4 @@ You will also see any lint errors in the console.
 5. Сonclusion inflomations about the winner and highlighting the winning combination.
 
 ## Interface:
-![Screenshot](img/interface.png)
+![Screenshot](img/interface.PNG)
